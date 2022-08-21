@@ -1,9 +1,9 @@
 Project description
 
-        Face Recognition :-
+Face Recognition :-
         
-        Recognize and manipulate faces from Python or from the command line with
-        the world’s simplest face recognition library.
+Recognize and manipulate faces from Python or from the command line with
+the world’s simplest face recognition library.
 
 Pre Requisites:
 

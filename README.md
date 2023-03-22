@@ -1,4 +1,4 @@
-A machine learning project based on OpenCV
+A machine learning project based on OpenCV and built in Face Recognition
 Project description
 
         Face Recognition :-

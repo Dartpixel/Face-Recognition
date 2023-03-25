@@ -1,4 +1,5 @@
 A machine learning project based on OpenCV and built in Face Recognition
+Usage of most used python libraries
 Project description
 
         Face Recognition :-

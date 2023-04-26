@@ -1,5 +1,6 @@
 A machine learning project based on OpenCV and built in Face Recognition
 Usage of most used python libraries
+Environment Supportive - Visual Studio Code and Pycharm
 Project description
 
         Face Recognition :-
